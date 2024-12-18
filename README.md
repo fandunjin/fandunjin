@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DunJin-Fan
-- 👀 I’m interested in bioinformatic and plant genome
+- 👀 I’m interested in Bioinformatic and Plant Genome
 - 🌱 I’m currently learning Comparative Genomics
-- 💞️ I’m looking to collaborate on Comparative Genomics researcher
+- 💞️ I’m looking to collaborate on Comparative Genomics Researchers
 - 📫 How to reach me? email:fandunjin@foxmail.com
 
 <!---
